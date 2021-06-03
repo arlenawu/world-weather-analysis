@@ -4,6 +4,11 @@ config.py
 # Adding additional files.
 API_Practice.ipynb
 Untitled.ipynb
+Google_nearby_search.ipynb
+weather_data/Fig1.png
+weather_data/Fig2.png
+weather_data/Fig3.png
+weather_data/Fig4.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

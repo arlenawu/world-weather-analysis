@@ -12,5 +12,7 @@ Part 2 simply used the Google Maps API to find a hotel in each of the 691 cities
 [[Link to map sample image]](Vacation_Search/WeatherPy_vacation_map.png)
 
 ## Part 3: Vacation Itinerary
-
+Part 3 of the project selected four random cities and created a round trip travel route between them using gmaps. A map of the travel route was generated, as well as a map with markers that popped up info boxes with information on each of the 4 cities.
+[[Link to travel route map]](Vacation_Itinerary/WeatherPy_travel_map.png)
+[[Link to marker map]](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
